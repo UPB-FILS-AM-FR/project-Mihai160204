@@ -51,6 +51,16 @@ b) <b>LED et buzzer:</b> Fournissent des retours visuels et sonores immédiats s
 
 a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante pour une utilisation prolongée sans connexion USB permanente.
 
+## Schéma électrique
+
+![Schéma électrique](./Schéma_électrique.png)
+
+
+
+
+
+
+
 ## Composants
 
 | Nombre | Appareil                                                                                                                                                                                    | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
