@@ -65,9 +65,9 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 |   8.   | [Jeu de câbles M-M et M-F](https://sigmanortec.ro/40-Fire-Dupont-30cm-Tata-Mama-p210854349)	                                   | Connexions électriques	                      | 7.94x2               | 15.88              |
 |        |                                                                                                                                                                                             |                                              |                      | Total: 127.72      |
 
+## Référence
 
-
-
+[YouTube Tutorial](https://www.youtube.com/watch?v=dDi6UTGd31k&ab_channel=ElectroSpark)
 
 
 
