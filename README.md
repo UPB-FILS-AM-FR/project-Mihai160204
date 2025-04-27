@@ -53,7 +53,7 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 
 ## Schéma électrique
 
-![Schéma électrique](./Schéma_électrique.png)
+![Schéma électrique]
 
 
 
