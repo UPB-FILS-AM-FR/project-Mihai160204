@@ -51,15 +51,17 @@ b) <b>LED et buzzer:</b> Fournissent des retours visuels et sonores immédiats s
 
 a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante pour une utilisation prolongée sans connexion USB permanente.
 
+## Schéma fonctionnel
+
+![Schéma fonctionnel](./Schéma_fonctionnel.png)
+
 ## Schéma électrique
 
-![Schéma électrique]
+![Schéma électrique](
 
+## Schéma des composants du robot
 
-
-
-
-
+![Composants du robot](./Composants_du_robot.png)
 
 ## Composants
 
