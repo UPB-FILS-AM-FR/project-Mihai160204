@@ -1,8 +1,9 @@
+<h2>Coffre-fort électronique avec mot de passe et alarme utilisant Arduino Mega2560🔒</h2>
+
 | Auteur              | Information         |
 |---------------------|---------------------|
 | Mogoș Mihai-Dănuț | [GitHub Profile](https://github.com/Mihai160204) |
 
-<h2>Coffre-fort électronique avec mot de passe et alarme utilisant Arduino Mega2560🔒</h2>
 
 ## Description
 
@@ -76,6 +77,21 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 |   7.   | [Breadboard 830 points](https://sigmanortec.ro/Breadboard-830-puncte-MB-102-p125923983)          | Montage des composants	                      | 11.07                 | 11.07               |
 |   8.   | [Jeu de câbles M-M et M-F](https://sigmanortec.ro/40-Fire-Dupont-30cm-Tata-Mama-p210854349)	                                   | Connexions électriques	                      | 7.94x2               | 15.88              |
 |        |                                                                                                                                                                                             |                                              |                      | Total: 127.72      |
+
+### Libraries
+
+| Library | Description | Usage |
+|---------|-------------|-------|
+|  |  | |
+| |  |  |
+
+## Log
+
+### Week 6 - 12 May
+
+### Week 7 - 19 May
+
+### Week 20 - 26 May
 
 ## Référence
 
