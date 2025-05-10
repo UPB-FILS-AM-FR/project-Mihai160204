@@ -87,11 +87,8 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 
 ## Log
 
-### Week 6 - 12 May
-
-### Week 7 - 19 May
-
-### Week 20 - 26 May
+### Semaine 9 - 21 Avril
+J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://sigmanortec.ro/) et [Optimus Digital](https://www.optimusdigital.ro/).
 
 ## Référence
 
