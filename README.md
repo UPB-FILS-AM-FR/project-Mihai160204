@@ -90,6 +90,12 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 ### Semaine 9 - 21 Avril
 J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://sigmanortec.ro/) et [Optimus Digital](https://www.optimusdigital.ro/).
 
+### Semaine 11 - 5 Mai
+
+Cette semaine, j'ai commencé la partie matérielle en connectant les composants à la carte Arduino à l'aide de fils mâle-mâle. J'ai utilisé une breadboard pour organiser les fils et relier les composants sans soudure. Sur l'une des rails latéraux de la breadboard, j'ai connecté la masse (GND) de l'Arduino afin d'avoir un point de référence commun pour tous les composants.
+
+
+
 ## Référence
 
 [YouTube Tutorial](https://www.youtube.com/watch?v=dDi6UTGd31k&ab_channel=ElectroSpark)
