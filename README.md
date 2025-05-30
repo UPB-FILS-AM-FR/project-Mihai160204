@@ -80,10 +80,10 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 
 ### Libraries
 
-| Library | Description | Usage |
-|---------|-------------|-------|
-|  |  | |
-| |  |  |
+| Library | Description |
+|---------|-------------|
+|  Keypad.h       |   Cette bibliothèque permet de gérer facilement le 4x4 keypad.          |
+|    Servo.h     |     Cette bibliothèque sert à contrôler précisément un servo moteur SG90, qui ouvre ou ferme le coffre-fort.        |
 
 ## Log
 
@@ -94,7 +94,13 @@ J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://si
 
 Cette semaine, j'ai commencé la partie matérielle en connectant les composants à la carte Arduino à l'aide de fils mâle-mâle. J'ai utilisé une breadboard pour organiser les fils et relier les composants sans soudure. Sur l'une des rails latéraux de la breadboard, j'ai connecté la masse (GND) de l'Arduino afin d'avoir un point de référence commun pour tous les composants.
 
+<img src="Hardware_1.png" width="300" />
 
+### Semaine 12 - 12 Mai
+
+Cette semaine, j’ai terminé l’assemblage de la partie matérielle, en soudant tous les composants à l’intérieur du coffre-fort.
+
+<img src="Hardware_2.png" width="300" />
 
 ## Référence
 
