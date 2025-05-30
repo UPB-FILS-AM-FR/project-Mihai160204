@@ -80,10 +80,10 @@ a) <b>Batterie 9V + module d'alimentation:</b> Fournit une autonomie suffisante 
 
 ### Libraries
 
-| Library | Description |
-|---------|-------------|
-|  Keypad.h       |   Cette bibliothèque permet de gérer facilement le 4x4 keypad.          |
-|    Servo.h     |     Cette bibliothèque sert à contrôler précisément un servo moteur SG90, qui ouvre ou ferme le coffre-fort.        |
+| Library | Description | Usage |
+|---------|-------------|-------|
+|  Keypad.h       |   Cette bibliothèque permet de gérer facilement le 4x4 keypad.          | #include<Keypad.h> |
+|    Servo.h     |     Cette bibliothèque sert à contrôler précisément un servo moteur SG90, qui ouvre ou ferme le coffre-fort.        | #include<Servo.h> |
 
 ## Log
 
